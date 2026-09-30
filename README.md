@@ -19,21 +19,19 @@ Day 4 ESP32 project: use a potentiometer to control an external LED’s brightne
 
 ## Wokwi simulation(https://wokwi.com/projects/476560443332563969)
 
-# Day-5
-Day 5: ESP32 WiFi Connection
-
+# Day-5 ESP32 WiFi Connection
 This project demonstrates how to connect an ESP32 DevKit v1 to the WiFi network provided by the Wokwi simulator. After successfully connecting, the ESP32 displays its assigned IP address in the Serial Monitor.
 
-Hardware Required:
+# Hardware Required:
 ESP32 DevKit v1
 
 No external components are required for this project.
 
-WiFi Configuration:
+# WiFi Configuration:
 WiFi Network: Wokwi-GUEST
 Password: No password required
 
-Steps to Run:
+# Steps to Run:
 Open the Wokwi simulation.
 Start the simulation by clicking Play.
 Open the Serial Monitor.
